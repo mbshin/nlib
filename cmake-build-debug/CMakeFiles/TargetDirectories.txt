@@ -1,0 +1,3 @@
+/home/mobum/projects/nlib/cmake-build-debug/CMakeFiles/time_utils.dir
+/home/mobum/projects/nlib/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mobum/projects/nlib/cmake-build-debug/CMakeFiles/rebuild_cache.dir

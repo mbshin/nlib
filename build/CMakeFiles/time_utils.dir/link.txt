@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtime_utils.a CMakeFiles/time_utils.dir/src/time_utils.c.o
+/usr/bin/ranlib libtime_utils.a
